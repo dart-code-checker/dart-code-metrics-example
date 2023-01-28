@@ -1,14 +1,14 @@
-# Dart Code Metrics Flutter app example
+# DCM Flutter app example
 
-This example demonstrates how Dart Code Metics can be set up for a Flutter project.
+This example demonstrates how DCM can be set up for a Flutter project.
 
 ## Configuration
 
-Dart Code Metrics configuration is listed in `analysis_options.yaml` file. [Check it out](analysis_options.yaml) for more details.
+DCM configuration is listed in `analysis_options.yaml` file. [Check it out](analysis_options.yaml) for more details.
 
 ## Commands
 
-You can find more details about the commands [on our website](https://dartcodemetrics.dev/docs/cli).
+You can find more details about the commands [on our website](https://dcm.dev/docs/individuals/cli/).
 
 ### Analyze
 
